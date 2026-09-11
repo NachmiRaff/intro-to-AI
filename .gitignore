@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging/build output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor junk
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.ini

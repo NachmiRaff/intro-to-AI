@@ -1,0 +1,9 @@
+Total runs: 100
+Average pushed: 13412.66
+Average checked: 13220.37
+Average cost: 87.92
+Average cost of successful runs: 7.076923076923077
+Success rate: 0.13
+Max pushed: 15000
+Max checked: 15000
+Max cost: 100
